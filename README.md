@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Cristian, nice to meet you!!!
+- 👀 I’m interested in system administration, learning about server deployment, and exploring various technologies related to IT infrastructure.
+- 🌱 I’m currently learning about cloud services, automation tools, and server optimization techniques.
+- 💞️ I’m looking to collaborate on server deployment projects, cloud infrastructure, and automation-related tasks.
+- 📫 How to reach me: Email me at cpergom2409@gmail.com or find me on LinkedIn at www.linkedin.com/in/cristian-pérez-356961262.
+- ⚡ Fun fact: I enjoy experimenting with new server setups and creating custom solutions to improve performance and efficiency.
