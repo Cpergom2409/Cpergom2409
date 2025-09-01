@@ -96,34 +96,72 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ffffff" alt="GitHub Activity Graph" />
 </div>
 
-## 🏆 **Badges y Certificaciones**
+## 🌟 **Actividad y Contribuciones por Mes**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DevOps-Expert-ff69b4?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps Expert" />
-  <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
-  <img src="https://img.shields.io/badge/Docker-Master-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Master" />
-  <img src="https://img.shields.io/badge/Kubernetes-Expert-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Expert" />
-  <img src="https://img.shields.io/badge/Terraform-Expert-7c3aed?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Expert" />
-  <img src="https://img.shields.io/badge/Linux-Admin-fcc624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Admin" />
+  <!-- GitHub Activity Graph por mes -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ffffff&custom_title=Actividad%20Mensual" alt="GitHub Activity Graph" />
 </div>
 
-## 🎯 **Habilidades Técnicas**
+## 💫 **Mi Filosofía DevOps**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Expert-brightgreen?style=for-the-badge" alt="IaC Expert" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Pipeline%20Master-blue?style=for-the-badge" alt="CI/CD Master" />
-  <img src="https://img.shields.io/badge/Monitoring%20%26%20Logging-Expert-yellow?style=for-the-badge" alt="Monitoring Expert" />
-  <img src="https://img.shields.io/badge/Security%20%26%20Compliance-Expert-red?style=for-the-badge" alt="Security Expert" />
-  <img src="https://img.shields.io/badge/Cloud%20Architecture-Expert-purple?style=for-the-badge" alt="Cloud Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Automation+is+not+a+choice;it's+a+necessity;Infrastructure+as+Code+is+the+future;Security+first%2C+always+first" alt="Typing SVG" />
 </div>
 
-## 📈 **Métricas de Rendimiento**
+## 🚀 **Stack Tecnológico en Acción**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Commits%20This%20Year-40+-brightgreen?style=for-the-badge" alt="Commits" />
-  <img src="https://img.shields.io/badge/Repositories-5+-blue?style=for-the-badge" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Stars%20Earned-2+-yellow?style=for-the-badge" alt="Stars" />
-  <img src="https://img.shields.io/badge/Contributions-1+-orange?style=for-the-badge" alt="Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cpergom2409&theme=dracula&hide_border=true&layout=compact&langs_count=8&custom_title=Lenguajes%20y%20Tecnolog%C3%ADas" alt="Top Languages" />
+</div>
+
+## 🎭 **Animaciones y Efectos Visuales**
+
+<div align="center">
+  <!-- Snake eating contribution graph -->
+  <img src="https://github.com/Cpergom2409/Cpergom2409/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contribution graph" />
+  
+  <!-- 3D Profile Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cpergom2409&theme=dracula&hide_border=true" alt="Profile Details" />
+  
+  <!-- Repo Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Most Commit Language" />
+</div>
+
+## 🌈 **Estadísticas Dinámicas**
+
+<div align="center">
+  <!-- WakaTime Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cpergom2409&theme=dracula&hide_border=true&custom_title=Tiempo%20de%20C%C3%B3digo" alt="WakaTime Stats" />
+  
+  <!-- GitHub Stats with custom theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Cpergom2409&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estad%C3%ADsticas%20Completas" alt="GitHub Stats" />
+</div>
+
+## 🎨 **Proyectos con Estilo**
+
+<div align="center">
+  <!-- Project Cards with custom styling -->
+  <a href="https://github.com/Cpergom2409/MongoDB-Deployment-Secure-Automated" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=MongoDB-Deployment-Secure-Automated&theme=dracula&hide_border=true&show_owner=true" alt="MongoDB Deployment" />
+  </a>
+  <a href="https://github.com/Cpergom2409/DevOps-Business-Automated-SOC-System-Deployment" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=DevOps-Business-Automated-SOC-System-Deployment&theme=dracula&hide_border=true&show_owner=true" alt="SOC System Deployment" />
+  </a>
+  <a href="https://github.com/Cpergom2409/From-Code-to-Security-Deployment-Compliance-and-Detection-of-Threats-in-AWS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=From-Code-to-Security-Deployment-Compliance-and-Detection-of-Threats-in-AWS&theme=dracula&hide_border=true&show_owner=true" alt="AWS Security Deployment" />
+  </a>
+</div>
+
+## 🔥 **Código en Acción**
+
+<div align="center">
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+  
+  <!-- GitHub Contribution Grid -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid_contribution_graph.gif" alt="Contribution Grid Snake" />
 </div>
 
 ###
