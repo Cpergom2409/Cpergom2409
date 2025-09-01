@@ -1,6 +1,6 @@
 <h2 align="left">🚀 ¡Hey there! Soy Cristian, tu DevOps Engineer favorito 🎯</h2>
 
-<h3 align="left">🔄 DevOps | 💻 SysAdmin | 🔧 Backend Developer | ☁️ Cloud Enthusiast | 🇪🇸 Desde España</h3>
+<h3 align="left">🔄 DevOps | 💻 SysAdmin | 🔧 Backend Developer | ☁️ Cloud Enthusiast</h3>
 
 <p align="left">
   ¡Hola! Soy Cristian. Me apasiona la automatización y la inteligencia artificial. Siempre estoy buscando la forma de que la tecnología trabaje por nosotros, ya sea optimizando un proceso, eliminando tareas repetitivas o creando soluciones inteligentes que simplifiquen el día a día.
