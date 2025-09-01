@@ -65,10 +65,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Automation+is+not+a+choice;it's+a+necessity;Infrastructure+as+Code+is+the+future;Security+first%2C+always+first" alt="Typing SVG" />
-</div>
-
 ## 🚀 **Proyectos Destacados**
 
 <div align="center">
@@ -78,9 +74,16 @@
   <a href="https://github.com/Cpergom2409/DevOps-Business-Automated-SOC-System-Deployment" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=DevOps-Business-Automated-SOC-System-Deployment&theme=dracula&hide_border=true" alt="SOC System Deployment" />
   </a>
+  <a href="https://github.com/Cpergom2409/From-Code-to-Security-Deployment-Compliance-and-Detection-of-Threats-in-AWS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=From-Code-to-Security-Deployment-Compliance-and-Detection-of-Threats-in-AWS&theme=dracula&hide_border=true" alt="AWS Security Deployment" />
+  </a>
 </div>
 
 ## 📊 **Estadísticas y Logros**
+
+<p align="center">
+  <strong>Los números cuentan historias, y la mía es la de un DevOps Engineer que convierte desafíos en oportunidades.</strong> Cada commit, cada contribución y cada proyecto representa un paso hacia la excelencia en automatización e infraestructura como código. Mi objetivo es no solo escribir código, sino crear soluciones que transformen la forma en que las empresas operan en la nube.
+</p>
 
 <div align="center">
   <!-- Profile Views Counter -->
@@ -95,19 +98,40 @@
 
 ## 🌟 **Actividad y Contribuciones**
 
+<p align="center">
+  <strong>La consistencia es la clave del éxito en DevOps.</strong> Mi gráfico de actividad refleja mi compromiso diario con el aprendizaje y la innovación. Cada pico representa un momento de inspiración, cada valle una oportunidad de reflexión. En el mundo de la automatización, cada contribución cuenta, y yo me aseguro de que cada una de ellas tenga un impacto real en la transformación digital.
+</p>
+
 <div align="center">
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ffffff" alt="GitHub Activity Graph" />
 </div>
 
-## 🎭 **Animaciones y Efectos Visuales**
+## 💫 **Mi Filosofía DevOps**
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Automation+is+not+a+choice;it's+a+necessity;Infrastructure+as+Code+is+the+future;Security+first%2C+always+first" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <!-- Snake eating contribution graph -->
+  <img src="https://github.com/Cpergom2409/Cpergom2409/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contribution graph" />
   
   <!-- 3D Profile Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cpergom2409&theme=dracula&hide_border=true" alt="Profile Details" />
-
+  
+  <!-- Repo Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Most Commit Language" />
 </div>
+
+## 🤖 **Reflexiones sobre IA, Cloud y Automatización DevOps**
+
+<p align="center">
+  <strong>En la era de la transformación digital, la inteligencia artificial no es solo una herramienta, es el catalizador que está redefiniendo el futuro de la infraestructura.</strong> Como DevOps Engineer, veo cada día cómo la IA está democratizando el acceso a tecnologías avanzadas, permitiendo que empresas de todos los tamaños implementen soluciones de clase empresarial. La nube ya no es solo un lugar para almacenar datos, es el lienzo donde pintamos el futuro de la automatización. Y en este futuro, cada script, cada pipeline y cada infraestructura como código es una pincelada que contribuye a una obra maestra de eficiencia y innovación.
+</p>
+
+## 🔥 **Código en Acción**
 
 <div align="center">
   <!-- Random Dev Quote -->
