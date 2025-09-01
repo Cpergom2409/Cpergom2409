@@ -67,6 +67,10 @@
 
 ## 🚀 **Proyectos Destacados**
 
+<p align="center">
+  <strong>La teoría se convierte en realidad a través de la práctica.</strong> Estos proyectos representan mi evolución como DevOps Engineer, desde la implementación de bases de datos seguras hasta la creación de sistemas SOC automatizados y la implementación de infraestructura segura en AWS. Cada repositorio es una historia de aprendizaje, innovación y resolución de problemas del mundo real. No solo escribo código, construyo soluciones que transforman la forma en que las organizaciones manejan su infraestructura digital.
+</p>
+
 <div align="center">
   <a href="https://github.com/Cpergom2409/MongoDB-Deployment-Secure-Automated" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=MongoDB-Deployment-Secure-Automated&theme=dracula&hide_border=true" alt="MongoDB Deployment" />
@@ -108,6 +112,10 @@
 </div>
 
 ## 💫 **Mi Filosofía DevOps**
+
+<p align="center">
+  <strong>DevOps no es solo una metodología, es una mentalidad que transforma la forma en que pensamos sobre el desarrollo y las operaciones.</strong> Mi filosofía se basa en cuatro pilares fundamentales que guían cada decisión técnica que tomo. Creo firmemente que la automatización no es una opción, sino una necesidad en el mundo actual. La infraestructura como código no es solo el futuro, es el presente que estamos construyendo. Y sobre todo, la seguridad no es una característica adicional, es el cimiento sobre el que se construye todo lo demás.
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Automation+is+not+a+choice;it's+a+necessity;Infrastructure+as+Code+is+the+future;Security+first%2C+always+first" alt="Typing SVG" />
