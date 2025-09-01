@@ -96,26 +96,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ffffff" alt="GitHub Activity Graph" />
 </div>
 
-## 🌟 **Actividad y Contribuciones por Mes**
-
-<div align="center">
-  <!-- GitHub Activity Graph por mes -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ffffff&custom_title=Actividad%20Mensual" alt="GitHub Activity Graph" />
-</div>
-
-## 💫 **Mi Filosofía DevOps**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Automation+is+not+a+choice;it's+a+necessity;Infrastructure+as+Code+is+the+future;Security+first%2C+always+first" alt="Typing SVG" />
 </div>
 
-## 🚀 **Stack Tecnológico en Acción**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cpergom2409&theme=dracula&hide_border=true&layout=compact&langs_count=8&custom_title=Lenguajes%20y%20Tecnolog%C3%ADas" alt="Top Languages" />
-</div>
-
-## 🎭 **Animaciones y Efectos Visuales**
 
 <div align="center">
   <!-- Snake eating contribution graph -->
@@ -128,33 +113,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Most Commit Language" />
 </div>
-
-## 🌈 **Estadísticas Dinámicas**
-
-<div align="center">
-  <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cpergom2409&theme=dracula&hide_border=true&custom_title=Tiempo%20de%20C%C3%B3digo" alt="WakaTime Stats" />
-  
-  <!-- GitHub Stats with custom theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Cpergom2409&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estad%C3%ADsticas%20Completas" alt="GitHub Stats" />
-</div>
-
-## 🎨 **Proyectos con Estilo**
-
-<div align="center">
-  <!-- Project Cards with custom styling -->
-  <a href="https://github.com/Cpergom2409/MongoDB-Deployment-Secure-Automated" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=MongoDB-Deployment-Secure-Automated&theme=dracula&hide_border=true&show_owner=true" alt="MongoDB Deployment" />
-  </a>
-  <a href="https://github.com/Cpergom2409/DevOps-Business-Automated-SOC-System-Deployment" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=DevOps-Business-Automated-SOC-System-Deployment&theme=dracula&hide_border=true&show_owner=true" alt="SOC System Deployment" />
-  </a>
-  <a href="https://github.com/Cpergom2409/From-Code-to-Security-Deployment-Compliance-and-Detection-of-Threats-in-AWS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=From-Code-to-Security-Deployment-Compliance-and-Detection-of-Threats-in-AWS&theme=dracula&hide_border=true&show_owner=true" alt="AWS Security Deployment" />
-  </a>
-</div>
-
-## 🔥 **Código en Acción**
 
 <div align="center">
   <!-- Random Dev Quote -->
