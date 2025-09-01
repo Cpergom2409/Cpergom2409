@@ -1,6 +1,6 @@
 <h2 align="left">🚀 ¡Hey there! Soy Cristian, tu DevOps Engineer favorito 🎯</h2>
 
-<h3 align="left">💻 SysAdmin | 🔧 Backend Developer | ☁️ Cloud Enthusiast | 🇪🇸 Desde España</h3>
+<h3 align="left">🔄 DevOps | 💻 SysAdmin | 🔧 Backend Developer | ☁️ Cloud Enthusiast | 🇪🇸 Desde España</h3>
 
 <p align="left">
   ¡Hola! Soy Cristian. Me apasiona la automatización y la inteligencia artificial. Siempre estoy buscando la forma de que la tecnología trabaje por nosotros, ya sea optimizando un proceso, eliminando tareas repetitivas o creando soluciones inteligentes que simplifiquen el día a día.
@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cpergom2409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cpergom2409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&show_contributions=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cpergom2409&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -26,7 +26,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
   <img width="12" />
@@ -66,3 +66,4 @@
 <img src="https://raw.githubusercontent.com/Cpergom2409/Cpergom2409/output/snake.svg" alt="Snake animation" />
 
 ###
+
