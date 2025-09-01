@@ -17,6 +17,10 @@
 ###
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Automation+is+not+a+choice;it's+a+necessity;Infrastructure+as+Code+is+the+future;Security+first%2C+always+first" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cpergom2409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&show_contributions=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cpergom2409&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -65,8 +69,6 @@
 
 ###
 
-## 🚀 **Proyectos Destacados**
-
 <p align="center">
   <strong>La teoría se convierte en realidad a través de la práctica.</strong> Estos proyectos representan mi evolución como DevOps Engineer, desde la implementación de bases de datos seguras hasta la creación de sistemas SOC automatizados y la implementación de infraestructura segura en AWS. Cada repositorio es una historia de aprendizaje, innovación y resolución de problemas del mundo real. No solo escribo código, construyo soluciones que transforman la forma en que las organizaciones manejan su infraestructura digital.
 </p>
@@ -83,8 +85,6 @@
   </a>
 </div>
 
-## 📊 **Estadísticas y Logros**
-
 <p align="center">
   <strong>Los números cuentan historias, y la mía es la de un DevOps Engineer que convierte desafíos en oportunidades.</strong> Cada commit, cada contribución y cada proyecto representa un paso hacia la excelencia en automatización e infraestructura como código. Mi objetivo es no solo escribir código, sino crear soluciones que transformen la forma en que las empresas operan en la nube.
 </p>
@@ -100,8 +100,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Cpergom2409&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-## 🌟 **Actividad y Contribuciones**
-
 <p align="center">
   <strong>La consistencia es la clave del éxito en DevOps.</strong> Mi gráfico de actividad refleja mi compromiso diario con el aprendizaje y la innovación. Cada pico representa un momento de inspiración, cada valle una oportunidad de reflexión. En el mundo de la automatización, cada contribución cuenta, y yo me aseguro de que cada una de ellas tenga un impacto real en la transformación digital.
 </p>
@@ -111,35 +109,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ffffff" alt="GitHub Activity Graph" />
 </div>
 
-## 💫 **Mi Filosofía DevOps**
-
 <p align="center">
   <strong>DevOps no es solo una metodología, es una mentalidad que transforma la forma en que pensamos sobre el desarrollo y las operaciones.</strong> Mi filosofía se basa en cuatro pilares fundamentales que guían cada decisión técnica que tomo. Creo firmemente que la automatización no es una opción, sino una necesidad en el mundo actual. La infraestructura como código no es solo el futuro, es el presente que estamos construyendo. Y sobre todo, la seguridad no es una característica adicional, es el cimiento sobre el que se construye todo lo demás.
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Automation+is+not+a+choice;it's+a+necessity;Infrastructure+as+Code+is+the+future;Security+first%2C+always+first" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <!-- Snake eating contribution graph -->
-  <img src="https://github.com/Cpergom2409/Cpergom2409/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contribution graph" />
   
   <!-- 3D Profile Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cpergom2409&theme=dracula&hide_border=true" alt="Profile Details" />
   
-  <!-- Repo Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Most Commit Language" />
 </div>
-
-## 🤖 **Reflexiones sobre IA, Cloud y Automatización DevOps**
 
 <p align="center">
   <strong>En la era de la transformación digital, la inteligencia artificial no es solo una herramienta, es el catalizador que está redefiniendo el futuro de la infraestructura.</strong> Como DevOps Engineer, veo cada día cómo la IA está democratizando el acceso a tecnologías avanzadas, permitiendo que empresas de todos los tamaños implementen soluciones de clase empresarial. La nube ya no es solo un lugar para almacenar datos, es el lienzo donde pintamos el futuro de la automatización. Y en este futuro, cada script, cada pipeline y cada infraestructura como código es una pincelada que contribuye a una obra maestra de eficiencia y innovación.
 </p>
-
-## 🔥 **Código en Acción**
 
 <div align="center">
   <!-- Random Dev Quote -->
