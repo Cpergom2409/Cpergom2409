@@ -85,6 +85,12 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+###
+
 <p align="center">
   <strong>Los números cuentan historias, y la mía es la de un DevOps Engineer que convierte desafíos en oportunidades.</strong> Cada commit, cada contribución y cada proyecto representa un paso hacia la excelencia en automatización e infraestructura como código. Mi objetivo es no solo escribir código, sino crear soluciones que transformen la forma en que las empresas operan en la nube.
 </p>
@@ -100,6 +106,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Cpergom2409&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
+###
+
+<br clear="both">
+
+###
+
 <p align="center">
   <strong>La consistencia es la clave del éxito en DevOps.</strong> Mi gráfico de actividad refleja mi compromiso diario con el aprendizaje y la innovación. Cada pico representa un momento de inspiración, cada valle una oportunidad de reflexión. En el mundo de la automatización, cada contribución cuenta, y yo me aseguro de que cada una de ellas tenga un impacto real en la transformación digital.
 </p>
@@ -108,6 +120,12 @@
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ffffff" alt="GitHub Activity Graph" />
 </div>
+
+###
+
+<br clear="both">
+
+###
 
 <p align="center">
   <strong>DevOps no es solo una metodología, es una mentalidad que transforma la forma en que pensamos sobre el desarrollo y las operaciones.</strong> Mi filosofía se basa en cuatro pilares fundamentales que guían cada decisión técnica que tomo. Creo firmemente que la automatización no es una opción, sino una necesidad en el mundo actual. La infraestructura como código no es solo el futuro, es el presente que estamos construyendo. Y sobre todo, la seguridad no es una característica adicional, es el cimiento sobre el que se construye todo lo demás.
@@ -119,6 +137,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cpergom2409&theme=dracula&hide_border=true" alt="Profile Details" />
   
 </div>
+
+###
+
+<br clear="both">
+
+###
 
 <p align="center">
   <strong>En la era de la transformación digital, la inteligencia artificial no es solo una herramienta, es el catalizador que está redefiniendo el futuro de la infraestructura.</strong> Como DevOps Engineer, veo cada día cómo la IA está democratizando el acceso a tecnologías avanzadas, permitiendo que empresas de todos los tamaños implementen soluciones de clase empresarial. La nube ya no es solo un lugar para almacenar datos, es el lienzo donde pintamos el futuro de la automatización. Y en este futuro, cada script, cada pipeline y cada infraestructura como código es una pincelada que contribuye a una obra maestra de eficiencia y innovación.
