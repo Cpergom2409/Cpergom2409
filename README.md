@@ -76,16 +76,54 @@
   </a>
 </div>
 
-## 📊 **Estadísticas de Proyectos**
+## 📊 **Estadísticas y Logros**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cpergom2409&theme=dracula&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Cpergom2409&color=dc143c&style=for-the-badge" alt="Profile views" />
+  <br/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cpergom2409&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Cpergom2409&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-## 🌟 **Actividad Reciente**
+## 🌟 **Actividad y Contribuciones**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4" alt="Activity Graph" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ffffff" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 **Badges y Certificaciones**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/DevOps-Expert-ff69b4?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps Expert" />
+  <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Docker-Master-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Master" />
+  <img src="https://img.shields.io/badge/Kubernetes-Expert-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Expert" />
+  <img src="https://img.shields.io/badge/Terraform-Expert-7c3aed?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Expert" />
+  <img src="https://img.shields.io/badge/Linux-Admin-fcc624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Admin" />
+</div>
+
+## 🎯 **Habilidades Técnicas**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Expert-brightgreen?style=for-the-badge" alt="IaC Expert" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipeline%20Master-blue?style=for-the-badge" alt="CI/CD Master" />
+  <img src="https://img.shields.io/badge/Monitoring%20%26%20Logging-Expert-yellow?style=for-the-badge" alt="Monitoring Expert" />
+  <img src="https://img.shields.io/badge/Security%20%26%20Compliance-Expert-red?style=for-the-badge" alt="Security Expert" />
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-Expert-purple?style=for-the-badge" alt="Cloud Expert" />
+</div>
+
+## 📈 **Métricas de Rendimiento**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Commits%20This%20Year-40+-brightgreen?style=for-the-badge" alt="Commits" />
+  <img src="https://img.shields.io/badge/Repositories-5+-blue?style=for-the-badge" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Stars%20Earned-2+-yellow?style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/badge/Contributions-1+-orange?style=for-the-badge" alt="Contributions" />
 </div>
 
 ###
