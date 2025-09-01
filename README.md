@@ -63,7 +63,29 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Cpergom2409/Cpergom2409/output/snake.svg" alt="Snake animation" />
-
 ###
 
+## 🚀 **Proyectos Destacados**
+
+<div align="center">
+  <a href="https://github.com/Cpergom2409/MongoDB-Deployment-Secure-Automated" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=MongoDB-Deployment-Secure-Automated&theme=dracula&hide_border=true" alt="MongoDB Deployment" />
+  </a>
+  <a href="https://github.com/Cpergom2409/DevOps-Business-Automated-SOC-System-Deployment" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cpergom2409&repo=DevOps-Business-Automated-SOC-System-Deployment&theme=dracula&hide_border=true" alt="SOC System Deployment" />
+  </a>
+</div>
+
+## 📊 **Estadísticas de Proyectos**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cpergom2409&theme=dracula&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🌟 **Actividad Reciente**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4" alt="Activity Graph" />
+</div>
+
+###
