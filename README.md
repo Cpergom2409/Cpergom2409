@@ -65,6 +65,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Automation+is+not+a+choice;it's+a+necessity;Infrastructure+as+Code+is+the+future;Security+first%2C+always+first" alt="Typing SVG" />
+</div>
+
 ## 🚀 **Proyectos Destacados**
 
 <div align="center">
@@ -96,22 +100,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cpergom2409&theme=dracula&hide_border=true&area=true&area_color=ff69b4&line=ff69b4&point=ffffff" alt="GitHub Activity Graph" />
 </div>
 
+## 🎭 **Animaciones y Efectos Visuales**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Automation+is+not+a+choice;it's+a+necessity;Infrastructure+as+Code+is+the+future;Security+first%2C+always+first" alt="Typing SVG" />
-</div>
-
-
-<div align="center">
-  <!-- Snake eating contribution graph -->
-  <img src="https://github.com/Cpergom2409/Cpergom2409/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contribution graph" />
   
   <!-- 3D Profile Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cpergom2409&theme=dracula&hide_border=true" alt="Profile Details" />
-  
-  <!-- Repo Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cpergom2409&theme=dracula&hide_border=true" alt="Most Commit Language" />
+
 </div>
 
 <div align="center">
